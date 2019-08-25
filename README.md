@@ -7,6 +7,7 @@ Some useful links about learning deep learning
   http://www.deeplearningbook.org 
   A very classical textbook. 
 
+
 2.Deep learning courses at Stanford:
   CS 231 by Andrew Ng. 
   The first part of this course can be found on coursera: https://www.coursera.org/specializations/deep-learning
@@ -27,14 +28,25 @@ Some useful links about learning deep learning
    Also, I find some great notes and codes :
       Notes by Mahmoud Badry: https://github.com/mbadry1/DeepLearning.ai-Summary
       Notes with cartoon pics by Tess Ferrandez: https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
-      Codes by Kulbear： https://github.com/Kulbear/deep-learning-coursera
+      Codes and quiz solutions by Kulbear： https://github.com/Kulbear/deep-learning-coursera
       
    中文笔记：
-   https://www.cnblogs.com/marsggbo/p/7470989.html
-   http://vernlium.github.io/2018/10/30/coursera-deeplearning-ai-c4-week3/
+      https://www.cnblogs.com/marsggbo/p/7470989.html
+      http://vernlium.github.io/2018/10/30/coursera-deeplearning-ai-c4-week3/
+
+
+3. 
+
 
 5. Chris Albon: https://chrisalbon.com 
-   This is a very comprehensive notes on data science and artificial intelligence. When you start to code, you always need to     do some data preprocessing, feature engineering and choose an appropriate method of model evaluations. This web provides complete codes with clear explanation step by step. 
+   TIt combines very comprehensive notes on data science and artificial intelligence. When you start a deep learning project, you always need to do some data preprocessing, feature engineering and choose an appropriate method of model evaluations. This web provides complete codes with clear explanations step by step. 
    
    
-6. Blogs: Sebastian Ruder:  http://ruder.io The author works in DeepMind and the blog is about Machine Learning, Deep Learning, and Natural Language Processing
+6. Blogs: 
+    1). Sebastian Ruder:  http://ruder.io 
+     The author works in DeepMind and the blog is about Machine Learning, Deep Learning, and     Natural Language Processing
+    2). Fisseha Berhane: https://datascience-enthusiast.com/DL/Art_Generation_with_Neural_Style_Transfer_v2.html
+    Deep Learning & Art: Neural Style Transfer
+     
+     
+     
