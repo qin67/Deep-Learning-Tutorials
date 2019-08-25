@@ -29,8 +29,9 @@ Some useful links about learning deep learning
       Notes with cartoon pics by Tess Ferrandez: https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
       Codes by Kulbear： https://github.com/Kulbear/deep-learning-coursera
       
-   中文笔记：https://www.cnblogs.com/marsggbo/p/7470989.html
-            http://vernlium.github.io/2018/10/30/coursera-deeplearning-ai-c4-week3/
+   中文笔记：
+   https://www.cnblogs.com/marsggbo/p/7470989.html
+   http://vernlium.github.io/2018/10/30/coursera-deeplearning-ai-c4-week3/
 
 5. Chris Albon: https://chrisalbon.com 
    This is a very comprehensive notes on data science and artificial intelligence. When you start to code, you always need to     do some data preprocessing, feature engineering and choose an appropriate method of model evaluations. This web provides complete codes with clear explanation step by step. 
