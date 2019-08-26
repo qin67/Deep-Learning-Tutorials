@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+#1.Book 'Deep Learning' by Ian Goodfellow Yoshua Bengio Aaron Courville
+  http://www.deeplearningbook.org 
+  A very classical textbook. 
 
-You can use the [editor on GitHub](https://github.com/qin67/Deep-Learning-Tutorials/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#2.Deep learning courses at Stanford:
+  ##CS 231 by Andrew Ng. 
+     The first part of this course can be found on coursera: https://www.coursera.org/specializations/deep-learning
+        It consists of five parts: 
+          1). Neural Networks and Deep Learning 
+          2). Improving Deep Neural Networks: Hyperparameter tuning, Regularization and  Optimization conducted
+          3). Structuring Machine Learning Projects
+          4). Convolutional Neural Networks  
+          5). Sequence Models
 
-### Markdown
+     The Second part of this course can be found on the course' web:
+        https://cs230.stanford.edu/lecture/
+        I really like the style of teaching of Kian Katanforoosh! The ten lectures focus most on the practical application of deep learning and introduce GANs.
+  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I make some notes about the whole class, you can see them here: 
+   
+Also, I find some great notes and codes :
+    Notes by Mahmoud Badry: https://github.com/mbadry1/DeepLearning.ai-Summary
+    Notes with cartoon pics by Tess Ferrandez: https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
+    Codes and quiz solutions by Kulbear： https://github.com/Kulbear/deep-learning-coursera
+      
+中文笔记：
+    https://www.cnblogs.com/marsggbo/p/7470989.html
+    http://vernlium.github.io/2018/10/30/coursera-deeplearning-ai-c4-week3/
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#3. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qin67/Deep-Learning-Tutorials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#5. Chris Albon: https://chrisalbon.com 
+    It combines very comprehensive notes on data science and artificial intelligence. When you start a deep learning project, you always need to do some data preprocessing, feature engineering and choose an appropriate method of model evaluations. This web provides complete codes with clear explanations step by step. 
+   
+   
+#6. Blogs: 
+##1). Sebastian Ruder:  
+http://ruder.io 
+       The author works in DeepMind and the blog is about Machine Learning, Deep Learning, and Natural Language Processing
+ ##2). Fisseha Berhane:
+https://datascienceenthusiast.com/DL/Art_Generation_with_Neural_Style_Transfer_v2.html
+       Deep Learning & Art: Neural Style Transfer
