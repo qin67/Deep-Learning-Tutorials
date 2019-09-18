@@ -6,24 +6,27 @@ Readings
 * Deep Learning Monitor: track the hot and fresh papers https://deeplearn.org
 * Most Cited Deep Learning Papers collected by Terry Taewoong Um: https://github.com/terryum/awesome-deep-learning-papers<br>
 * a list of awesome articles about object detectionhttps://github.com/amusi/awesome-object-detection 
+
   
 <br>
-Courses
-===
-CS 231 by Andrew Ng. A Deep learning course at Stanford 
----
-### The video lectures resources:<br>
-The first half of this course can be found on coursera: https://www.coursera.org/specializations/deep-learning<br>
-It consists of five parts: <br>
 
-* Neural Networks and Deep Learning <br>
-* Improving Deep Neural Networks: Hyperparameter tuning, Regularization and  Optimization conducted<br>
-* Structuring Machine Learning Projects<br>
-* Convolutional Neural Networks  <br>
-* Sequence Models<br>
-<br>
-The rest of this course can be found on the its web: https://cs230.stanford.edu/lecture/ <br>
-I really like the style of teaching of Kian Katanforoosh! The ten lectures focus most on the practical application of deep learning and introduce GANs.<br>
+Courses
+========
+CS 231 by Andrew Ng. A Deep learning course at Stanford <br>
+--------
+### The video lectures resources:<br>
+     
+   The first half of this course can be found on coursera: https://www.coursera.org/specializations/deep-learning<br>
+   It consists of five parts: <br>
+ 
+   * Neural Networks and Deep Learning <br>
+   * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and  Optimization conducted<br>
+   * Structuring Machine Learning Projects<br>
+   * Convolutional Neural Networks  <br>
+   * Sequence Models<br>
+
+   The rest of this course can be found on the its web: https://cs230.stanford.edu/lecture/ <br>
+   I really like the style of teaching of Kian Katanforoosh! The ten lectures focus most on the practical application of deep learning and introduce GANs.<br>
   
 ### The notes, quize solutions and codes resources:
 * I make some notes about the whole class, you can see them here: https://github.com/qin67/Deep-Learning-Tutorials/blob/master/Deep%20Learning%20Notes%20by%20Hongqian%20Qin.pdf <br>
@@ -45,6 +48,12 @@ I really like the style of teaching of Kian Katanforoosh! The ten lectures focus
  * I have watched fast.ai v3 part 1, and it is awesome! But my friend who has watched both v2 and v3 told me that the v2 is even better than v3. For those who are interested in fast.ai v2, here is the link: https://course18.fast.ai/index.html<br>
 For those beginner in machine learning, Jeremy has another course *Introduction to Machine Learning for Coders:http://course18.fast.ai/ml<br>
 
+
+## STAT 157, UC Berkeley, Spring, 2019. Introduction to Deep Learning<br>
+http://courses.d2l.ai/berkeley-stat-157/index.html <br>
+This course web is amazing. It combines the text book and all the codes you need. Highly Recommend!<br>
+
+ 
 ## MIT Introduction to Deep Learning:
 https://www.youtube.com/watch?v=5v1JnYv_yWs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
