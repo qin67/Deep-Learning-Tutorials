@@ -6,7 +6,7 @@ Readings
 * Deep Learning Monitor: track the hot and fresh papers https://deeplearn.org
 * Most Cited Deep Learning Papers collected by Terry Taewoong Um: https://github.com/terryum/awesome-deep-learning-papers<br>
 * a list of awesome articles about object detectionhttps://github.com/amusi/awesome-object-detection 
-
+* My personal favorite, also is the textbook of Berkley deep learning course STAT 157:**Dive into Deep Learning An interactive deep learning book with code, math, and discussions** http://numpy.d2l.ai
   
 <br>
 
