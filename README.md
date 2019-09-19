@@ -68,12 +68,16 @@ https://www.kaggle.com<br>
 
 Blog
 ===
-## Chris Albon: 
+### Colah:
+http://colah.github.io/ <br>
+### Andrej Karpathy:
+http://karpathy.github.io/ <br>
+### Chris Albon: 
 https://chrisalbon.com <br>
 It combines very comprehensive notes on data science and artificial intelligence. When you start a deep learning project, you always need to do some data preprocessing, feature engineering and choose an appropriate method of model evaluations. This web provides complete codes with clear explanations step by step. <br>   
-## Sebastian Ruder: 
+### Sebastian Ruder: 
 http://ruder.io  <br>
 The author works in DeepMind and the blog is about Machine Learning, Deep Learning, and Natural Language Processing
-## Fisseha Berhane:
+### Fisseha Berhane:
 https://datascienceenthusiast.com/DL/Art_Generation_with_Neural_Style_Transfer_v2.html<br>
 Deep Learning & Art: Neural Style Transfer
