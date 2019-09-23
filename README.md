@@ -81,3 +81,12 @@ The author works in DeepMind and the blog is about Machine Learning, Deep Learni
 ### Fisseha Berhane:
 https://datascienceenthusiast.com/DL/Art_Generation_with_Neural_Style_Transfer_v2.html<br>
 Deep Learning & Art: Neural Style Transfer
+
+Draw Architechture
+===
+NN SVG http://alexlenail.me/NN-SVG/index.html <br>
+Python codes : https://github.com/HarisIqbal88/PlotNeuralNet <br>
+Tensorflow: https://github.com/tflearn/tflearn#model-visualization <br>
+Tnsorboard: https://github.com/tensorflow/tensorboard <br>
+Netron: a viewer for neural network, deep learning and machine learning models https://github.com/lutzroeder/netron <br>
+Netscope CNN Analyzer (caffe-based) https://dgschwend.github.io/netscope/quickstart.html <br>
