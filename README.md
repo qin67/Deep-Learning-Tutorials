@@ -7,7 +7,7 @@ Readings
 * Most Cited Deep Learning Papers collected by Terry Taewoong Um: https://github.com/terryum/awesome-deep-learning-papers<br>
 * a list of awesome articles about object detectionhttps://github.com/amusi/awesome-object-detection 
 * My personal recommendation, also is the textbook of Berkley deep learning course STAT 157:**Dive into Deep Learning An interactive deep learning book with code, math, and discussions** http://numpy.d2l.ai
-**A combination of blogs, codes and books. Whaterver, my personal favorite:  https://machinelearningmastery.com/start-here/#timeseries
+* **A combination of blogs, codes and books. Whaterver, my personal favorite:  https://machinelearningmastery.com/start-here/#timeseries**
   
 <br>
 
