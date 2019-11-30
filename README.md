@@ -50,9 +50,11 @@ CS 231 by Andrew Ng. A Deep learning course at Stanford <br>
 For those beginner in machine learning, Jeremy has another course *Introduction to Machine Learning for Coders:http://course18.fast.ai/ml<br>
 
 
-## STAT 157, UC Berkeley, Spring, 2019. Introduction to Deep Learning<br>
+## UC Berkeley, STAT 157, Spring, 2019. Introduction to Deep Learning<br>
 http://courses.d2l.ai/berkeley-stat-157/index.html <br>
-This course web is amazing. It combines the text book and all the codes you need. Highly Recommend!<br>
+
+## UC Berkeley CS294-129 Designing, Visualizing and Understanding Deep Neural Networks
+https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks
 
  
 ## MIT Introduction to Deep Learning:
